@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-material-ba"
+    }
+  },
+  "defaultProject": "angular-material-ba",
+  "cli": {
+    "analytics": false
+  }
 }
